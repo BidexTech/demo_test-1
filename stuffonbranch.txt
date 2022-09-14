@@ -1,1 +1,269 @@
 #stuff on branch
+
+Home@Home-PC MINGW64 ~
+$ cd
+
+Home@Home-PC MINGW64 ~
+$ cd downloads
+
+Home@Home-PC MINGW64 ~/downloads
+$ dir
+0zB8KNmxR1GwfCjZsSdR-g_ce41adcea664476f86776011d768ac3f_C4-B.Spoke-Market-Research-Job-Description.pdf
+4TbVjXdTSce21Y13U8nHCw_fdbdac9041a44b83b6811acffeffd5a0_Dynamic-Dataset.xlsx
+4eUfT3k5SFKlH095OahSPA_0a16d65999de4b55b84f7862ed46e7ef_Resume-Template-Example-with-Experience.docx
+4kkrF6aORiqJKxemjkYqPg_ec81a42c2c654a16900a100866a4a4f3_Resume-Template-2.docx
+5vVDkB5qT1y1Q5Aeau9c_Q_6d0e31160e2e43479d172390d19853f1_DAC3-In-depth-guide_-SQL-best-practices.pdf
+5yy51M8xSPesudTPMVj3QQ_8eae23a8b98d4e339061bd9252c073f1_Margin-of-Error-Calculator.xlsx
+7d2SozRKTF6dkqM0SvxeKQ_817d5ed1d6b74e0493f84dae8d575af1_Course-4-Week-6-Glossary-_-DA-terms-and-definitions.docx
+AYj1TzaYR72I9U82mNe9hw_10b6b360274d40bfa1e9e6f788949bf1_Course-5-Week-1-Glossary-_-DA-terms-and-definitions-1-.docx
+AccessDatabaseEngine.exe
+AnyDesk.exe
+B3ofmLtERPq6H5i7RFT6Pg_1ca5eec9c08941518e2c16034a2e65f1_SalesByDay.xlsx
+CO2\ Dataset.xlsx
+CO2-Dataset.xlsx
+CO2.xlsx
+CT_of_a_normal_abdomen_and_pelvis_coronal_plane_79_header-1024x575.webp
+Case-Study-3_Own-Path.pdf
+ChromeSetup.exe
+Course-6-Week-4-Glossary-_-DA-terms-and-definitions\ (1).docx
+Course-6-Week-4-Glossary-_-DA-terms-and-definitions.docx
+Course-7-Week-3-Glossary-_-DA-terms-and-definitions.docx
+Course-7-Week-5-Glossary-_-DA-terms-and-definitions.docx
+Create\ a\ Dashboard\ -\ Tableau.html
+Create\ a\ Dashboard\ -\ Tableau_files
+DHN9hYWCSDCzfYWFgvgwgg_b0e0d35f6a4f4bde9c84ecd0dd69c0f1_SalesByFlavor.xlsx
+Dashboards\ Starter\ Template\ (1).twbx
+Dashboards\ Starter\ Template.twbx
+Data-Analytics-graphic\ design\ thinking\ process.png
+Demystifying-Value-Presentation.pptx
+Departments-Table---Understanding-JOINS.csv
+Download
+Employees-Table---Understanding-JOINS.csv
+Energy-data.xlsx
+Expert_PDF.exe
+FGjcsftjRDqo3LH7Y4Q61w_2a859fd2a7814494af48d99f80ee8dd0_Movie-Data-Starter-Project.xlsx
+Fitabase\ Data\ 4.12.16-5.12.16
+Git-2.37.3-64-bit.exe
+GoogleDataAnalyticsCertificate_Badge20220803-46-nj8hkx.pdf
+How-can-a-wellness-technology-company-play-it-smart.pdf
+How-to-choose-a-data-visualization.pdf
+I8MUn0fDRtaDFJ9Hw8bWSg_2994cf28808b4992952e8d4f62225da9_Sample-Transaction-Table---transactional-data-format-csv.csv
+Inventory\ -\ Inventory.csv
+Inventory\ -\ Sales.csv
+Inventory.csv
+Jupyter_Notebook.ipynb
+Keeping-your-code-readable.pdf
+Learning-Log-Template_-Evaluate-your-presentation.docx
+MediaCreationTool21H2.exe
+N6yC45eCTk6sguOXgh5OZg_7ef9293db767497dbdf06636f91b8749_Movie-Data-Starter-Project.xlsx
+NQchTAEVRoaHIUwBFbaG8w_83656977ed1b4900879d1c24ac1602d4_Making-your-own-visualization---example-dataset.xlsx
+Olasunkanmi\ Resume.docx
+Output-formats-available-in-RMarkdown.pdf
+PRbP3ATQTDiWz9wE0Kw43w_7f3d6963cb8c4fd6aa0e8aef65b76ef1_Intro-to-BigQuery-solutions.docx
+PjtlXxgvTl67ZV8YL15eZA_7980b0b8f6314e7ba63c0c997ae808b1_Screen-Shot-2021-01-22-at-6.16.12-PM.png
+Products.csv
+Profile.pdf
+R-4.2.1-win.exe
+RStudio-2022.07.0-548.exe
+Requirements+Gathering+Worksheet.pdf
+SQL2019-SSEI-Dev.exe
+SQL2019-SSEI-Eval.exe
+SSMS-Setup-ENU.exe
+Sales.csv
+Setup\ Instructions\ Modern\ Workplace.pdf.pdf
+Super\ Store\ Data.xlsx
+TP0HEtBSRZK9BxLQUtWSdw_2d90471b8d4d49d58e6d845ef38b17f1_Working-with-Conditions.xlsx
+TableauPublicDesktop-64bit-2022-2-0.exe
+TapScanner\ 06-28-2022-17꞉12\ (p2).pdf
+TapScanner\ 07-21-2022-10꞉22\ (p5).pdf
+TpShwDa8QqKUocA2vMKiew_1c658806ea5f4947b99b3aee90b9a3f1_Sales.csv
+Unconfirmed\ 478562.crdownload
+W6yEmyWURDSshJsllBQ0cA_3a5dc06b5992433684908c75b947d529_Kitty-Survey-Feedback---Meer-Kitty-survey-feedback.csv
+WIN10_2206_01.iso
+Warehouse-Orders---Orders.csv
+Warehouse-Orders---Warehouse.csv
+WozquIrkQluM6riK5OJbXw_e3031735540f416ea7008b86970a75f1_Course-5-Week-2-Glossary-_-DA-terms-and-definitions-2-.docx
+ZTUjNArvQTi1IzQK7xE4BQ_8924fe3a4b6d418ab48b005c07413ff1_Inventory.csv
+ZjLfk23TReay35Nt0wXmew_d36a57f22bd64bd4afd6bbaa6c21c9f1_Course-5-Week-4-Glossary-_-DA-terms-and-definitions.docx
+archive\ (1).zip
+archive\ (2).zip
+archive.zip
+bquxjob_7ef7a678_18185d3d50d.csv
+cREKC3lpSDaRCgt5aTg2kg_591bae15000040aa99e53a834ced52f1_VLOOKUP-Practice-Sheet.xlsx
+clinic.sql
+data\ Vis\ Screen-Shot-2021-03-31-at-9.09.20-AM.png
+decision-tree.png
+demo_test
+demo_test1
+desktop.ini
+download.jpg
+examples-main
+examples-main.zip
+fI4oxJLYRwaOKMSS2IcGcQ_40bd0a350be44bbfa9e575de2f80ea2a_DAC5M3L3SR1---Queries-for-JOINS-2.png
+fsMcO5voSzCDHDub6Mswew_7b72dae07e68423c9c5cebdaae746293_Kitty-Survey-Feedback---New-Meer-Kitty-survey-feedback.csv
+gXRY_U4kSsy0WP1OJIrM6A_8de7f02160c44988a2ac730b661852e3_C4-S2-Email-from-Recruiter.pdf
+gcapi.dll
+gdptotal.xlsx
+google-data-analytics-certificate.2\ (1).png
+google-data-analytics-certificate.2.png
+hNWm_G7LT_6Vpvxuyx_-rQ_23854bfd27c042f0814ebbcd7ec112f1_Products.csv
+hPHYeJ8qQcWx2HifKrHFyA_aec69fce611c44a6be37229b3a6d1267_Resume-Template-1.docx
+jI37Te-vQV2N-03vrwFdpw_b4e359010e5e4107832f617e6c2370f1_Customer-Centric-Assignment.pdf
+jmigEulNR7yooBLpTYe8Cw_9ecaf818f1a74b7987fe6a7d9af3c1f1_SalesByTemp.xlsx
+kIYa81BrSBmGGvNQaxgZJQ_603be6ce9c0041a48ead80b47bfa7cf1_Course-3-Week-3-Glossary-_-DA-terms-and-definitions.docx
+names
+names.zip
+noaa-weather-data-jfk-airport
+noaa-weather-data-jfk-airport.tar.gz
+noaa-weather-sample-data
+noaa-weather-sample-data.tar.gz
+putty-64bit-0.76-installer.msi
+python-3.10.4-amd64.exe
+s7PLxn9URlSzy8Z_VDZUqQ_90e1fe6271aa400cb7a05c5ba5c40a56_Dataset-for-Project_-CONCAT-function.xlsx
+testing.ipynb
+tips_clearance.sql
+totalpopulation.xlsx
+wdJjVp9YQpuSY1afWKKbTQ_952d20cf319a47adb84197abb66cf0f1_Sample-Size-Calculator.xlsx
+which_chart_v6_final_0.pdf
+xyHfpcTnQB2h36XE57AdZg_540ee9a609e340bfa9346151c4b8ac2f_Learning-Log-Template_-Review-file-structure-and-naming-conventions.docx
+zE8WrYblTYmPFq2G5Z2J_w_0b2b2423cf224230b4ab32ce19e9eff1_DAC2-Designing-compelling-dashboards.pdf
+
+Home@Home-PC MINGW64 ~/downloads
+$ cd demo-test1
+bash: cd: demo-test1: No such file or directory
+
+Home@Home-PC MINGW64 ~/downloads
+$ cd demo_test1
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ dir
+README.md
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 1.20 KiB | 72.00 KiB/s, done.
+From github.com:BidexTech/demo_test-1
+   9bc2b07..5f454ef  master     -> origin/master
+Updating 9bc2b07..5f454ef
+Fast-forward
+ README.md | 62 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 62 insertions(+)
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$  notedpad readme.md
+bash: notedpad: command not found
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ echo "#stuff on branch" >>stuffonbranch.txt
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ git add stuffonbranch.txt
+warning: in the working copy of 'stuffonbranch.txt', LF will be replaced by CRLF
+ the next time Git touches it
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ git branch mybranch
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ git checkout mybranch
+Switched to branch 'mybranch'
+A       stuffonbranch.txt
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ ls
+README.md  stuffonbranch.txt
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git commit -m "add to the branch"
+[mybranch 9ef8cc1] add to the branch
+ 1 file changed, 1 insertion(+)
+ create mode 100644 stuffonbranch.txt
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git add stuffonbranc.txt
+fatal: pathspec 'stuffonbranc.txt' did not match any files
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ ^C
+^C
+g
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git add stuffonbranch.txt
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git commit -m "add to the branch"
+On branch mybranch
+nothing to commit, working tree clean
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git push
+fatal: The current branch mybranch has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin mybranch
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$  git push --set-upstream origin mybranch
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 313 bytes | 22.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'mybranch' on GitHub by visiting:
+remote:      https://github.com/BidexTech/demo_test-1/pull/new/mybranch
+remote:
+To github.com:BidexTech/demo_test-1.git
+ * [new branch]      mybranch -> mybranch
+branch 'mybranch' set up to track 'origin/mybranch'.
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git push
+Everything up-to-date
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git merge my branch
+merge: my - not something we can merge
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git merge mybranch
+Already up to date.
+gi
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ gti checkout master
+bash: gti: command not found
+hiyt
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (mybranch)
+$ git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ git merge mybranch
+Updating 5f454ef..9ef8cc1
+Fast-forward
+ stuffonbranch.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 stuffonbranch.txt
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ git merge mybranch
+Already up to date.
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$ git push
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:BidexTech/demo_test-1.git
+   5f454ef..9ef8cc1  master -> master
+
+Home@Home-PC MINGW64 ~/downloads/demo_test1 (master)
+$
